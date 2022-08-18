@@ -1,0 +1,121 @@
+/* team banner*/
+#team-banner {
+  text-align: center;
+  background-color: gray;
+  font-size: 2em;
+}
+
+#team-banner[data-active-player="1"] span:first-child {
+  text-decoration: underline;
+  text-decoration-color: lawngreen;
+}
+
+#team-banner[data-active-player="2"] span:last-child {
+  text-decoration: underline;
+  text-decoration-color: fuchsia;
+}
+
+#team-banner span:first-child {
+  color: red;
+}
+
+#team-banner span:last-child {
+  color: yellow;
+}
+
+/* column picker*/
+#column-picker {
+  display: flex;
+  flex-direction: row;
+  width: calc(80vmin * 7 / 6);
+  font-size: 0.8em;
+  margin: 0 auto;
+}
+
+#column-picker div {
+  position: relative;
+  text-align: center;
+  width: calc(100% / 7);
+  margin-bottom: 5%;
+}
+
+#column-picker div:hover {
+  cursor: pointer;
+}
+
+#column-picker div[data-column-filled="0"]::before {
+  position: absolute;
+  width: 90%;
+  height: 100%;
+  right: 5%;
+  top: 100%;
+  background-color: lawngreen;
+  content: "";
+}
+
+#column-picker div[data-targeted="1"]::before {
+  background-color: aqua;
+}
+
+/* game board */
+#game-board {
+  height: 80vmin;
+  aspect-ratio: 7 / 6;
+  border-collapse: collapse;
+  table-layout: fixed;
+  margin: 0 auto;
+}
+
+#game-board td {
+  position: relative;
+  height: calc(100% / 7);
+  background-color: blue;
+  border: 4px solid black;
+}
+
+#game-board td::after {
+  position: absolute;
+  width: 90%;
+  height: 90%;
+  border-radius: 50%;
+  top: 5%;
+  left: 5%;
+  background-color: white;
+  content: "";
+}
+
+#game-board td[data-piece="1"]::after {
+  background-color: red;
+}
+
+#game-board td[data-piece="2"]::after {
+  background-color: yellow;
+}
+
+/* answer submission pop up */
+#answer-submission-pop-up {
+  box-sizing: border-box;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  padding: 1em;
+  font-size: 2em;
+  background-color: gray;
+  z-index: 1;
+}
+
+#answer-submission-pop-up[data-hidden="1"] {
+  display: none;
+}
+
+#answer-submission-pop-up input {
+  margin: 0.5em 0;
+  font-size: 1em;
+}
+
+#answer-submission-pop-up #close-button {
+  background-color: red;
+  color: white;
+  margin-bottom: 1em;
+}
