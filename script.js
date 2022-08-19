@@ -3,49 +3,50 @@ const questions = {
   master: [],
   notInUse: [],
   inUse: [],
-};
 
-function initializeQuestions(fileText) {
-  const fileJson = JSON.parse(fileText);
-  for (let i = 0; i < fileJson.length; i++) {
-    const question = fileJson[i];
-    question.index = i;
-  }
-  questions.master = [...fileJson];
-  questions.notInUse = [...fileJson];
-}
+  initializeQuestions(fileText) {
+    const fileJson = JSON.parse(fileText);
+    for (let i = 0; i < fileJson.length; i++) {
+      const question = fileJson[i];
+      question.index = i;
+    }
+    questions.master = [...fileJson];
+    questions.notInUse = [...fileJson];
+  },
 
-function getQuestionByIndex(i) {
-  return questions.master[i];
-}
+  getQuestionByIndex(i) {
+    return questions.master[i];
+  },
 
-function getRandomQuestion() {
-  if (questions.notInUse.length === 0) {
-    const inUseIdices = questions.inUse.map(question => question.index);
-    for (let i = 0; i < questions.master.length; i++) {
-      const question = questions.master[i];
-      if (!inUseIdices.includes(question.index)) {
-        questions.notInUse.push(question);
+  getRandomQuestion() {
+    if (questions.notInUse.length === 0) {
+      const inUseIdices = questions.inUse.map(question => question.index);
+      for (let i = 0; i < questions.master.length; i++) {
+        const question = questions.master[i];
+        if (!inUseIdices.includes(question.index)) {
+          questions.notInUse.push(question);
+        }
       }
     }
-  }
-  const randomNumber = Math.floor(Math.random() * questions.notInUse.length);
-  const question = questions.notInUse.splice(randomNumber, 1)[0];
-  questions.inUse.push(question);
-  return question;
-}
+    const randomNumber = Math.floor(Math.random() * questions.notInUse.length);
+    const question = questions.notInUse.splice(randomNumber, 1)[0];
+    questions.inUse.push(question);
+    return question;
+  },
 
-function removeQuestionFromUse(question) {
-  for (let i = 0; i < questions.inUse.length; i++) {
-    const cell = questions.inUse[i];
-    if (cell.index === question.index) {
-      questions.inUse.splice(i, 1);
-      break;
+  removeQuestionFromUse(question) {
+    for (let i = 0; i < questions.inUse.length; i++) {
+      const cell = questions.inUse[i];
+      if (cell.index === question.index) {
+        questions.inUse.splice(i, 1);
+        break;
+      }
     }
-  }
-}
+  },
 
-// set up file form submission handler
+};
+
+// set up question file form submission handler
 const questionForm = document.getElementById("question-file-form");
 questionForm.addEventListener("submit", (e) => {
   e.preventDefault();
@@ -53,7 +54,7 @@ questionForm.addEventListener("submit", (e) => {
   const fileInputElement = document.getElementById("question-file-input");
   const file = fileInputElement.files[0];
   file.text().then((text) => {
-    initializeQuestions(text);
+    questions.initializeQuestions(text);
     form.remove();
     createBoard();
   });
@@ -107,7 +108,7 @@ function columnPickerHandler(e) {
   }
   deTargetColumnPickerChildren();
   columnPickerChild.dataset.targeted = 1;
-  const question = getQuestionByIndex(columnPickerChild.dataset.questionIndex);
+  const question = questions.getQuestionByIndex(columnPickerChild.dataset.questionIndex);
   const popUp = document.getElementById("answer-submission-pop-up");
   const questionLabel = document.getElementById("question-label");
   const answerInput = document.getElementById("answer-input");
@@ -131,10 +132,10 @@ function getTargetedColumnPickerChild() {
 
 function getNewQuestionForColumnPickerChild(columnPickerChild) {
   if (columnPickerChild.dataset.questionIndex !== undefined) {
-    const oldQuestion = getQuestionByIndex(columnPickerChild.dataset.questionIndex);
-    removeQuestionFromUse(oldQuestion);
+    const oldQuestion = questions.getQuestionByIndex(columnPickerChild.dataset.questionIndex);
+    questions.removeQuestionFromUse(oldQuestion);
   }
-  const newQuestion = getRandomQuestion();
+  const newQuestion = questions.getRandomQuestion();
   columnPickerChild.dataset.questionIndex = newQuestion.index;
   katex.render(newQuestion.question, columnPickerChild, { throwOnError: false });
 }
@@ -145,7 +146,7 @@ popUpForm.addEventListener("submit", (e) => {
   e.preventDefault();
   const popUp = document.getElementById("answer-submission-pop-up");
   const targetedColumnPickerChild = getTargetedColumnPickerChild();
-  const question = getQuestionByIndex(targetedColumnPickerChild.dataset.questionIndex);
+  const question = questions.getQuestionByIndex(targetedColumnPickerChild.dataset.questionIndex);
   const answer = document.getElementById("answer-input").value;
   popUp.dataset.hidden = 1;
   if (question["possible-answers"].includes(answer)) {
