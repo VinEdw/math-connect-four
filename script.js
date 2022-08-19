@@ -3,6 +3,21 @@ const questions = {
   master: [],
   notInUse: [],
   inUse: [],
+  questionForm: document.getElementById("question-file-form"),
+  
+  init() {
+    // set up question file form submission handler
+    this.questionForm.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const fileInputElement = document.getElementById("question-file-input");
+      const file = fileInputElement.files[0];
+      file.text().then((text) => {
+        questions.initializeQuestions(text);
+        this.questionForm.remove();
+        createBoard();
+      });
+    });
+  },
 
   initializeQuestions(fileText) {
     const fileJson = JSON.parse(fileText);
@@ -45,20 +60,7 @@ const questions = {
   },
 
 };
-
-// set up question file form submission handler
-const questionForm = document.getElementById("question-file-form");
-questionForm.addEventListener("submit", (e) => {
-  e.preventDefault();
-  const form = e.composedPath()[0];
-  const fileInputElement = document.getElementById("question-file-input");
-  const file = fileInputElement.files[0];
-  file.text().then((text) => {
-    questions.initializeQuestions(text);
-    form.remove();
-    createBoard();
-  });
-});
+questions.init();
 
 // create the game board
 function createBoard() {
