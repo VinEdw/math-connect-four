@@ -10,35 +10,35 @@ const questions = {
       const question = fileJson[i];
       question.index = i;
     }
-    questions.master = [...fileJson];
-    questions.notInUse = [...fileJson];
+    this.master = [...fileJson];
+    this.notInUse = [...fileJson];
   },
 
   getQuestionByIndex(i) {
-    return questions.master[i];
+    return this.master[i];
   },
 
   getRandomQuestion() {
-    if (questions.notInUse.length === 0) {
-      const inUseIdices = questions.inUse.map(question => question.index);
-      for (let i = 0; i < questions.master.length; i++) {
-        const question = questions.master[i];
+    if (this.notInUse.length === 0) {
+      const inUseIdices = this.inUse.map(question => question.index);
+      for (let i = 0; i < this.master.length; i++) {
+        const question = this.master[i];
         if (!inUseIdices.includes(question.index)) {
-          questions.notInUse.push(question);
+          this.notInUse.push(question);
         }
       }
     }
-    const randomNumber = Math.floor(Math.random() * questions.notInUse.length);
-    const question = questions.notInUse.splice(randomNumber, 1)[0];
-    questions.inUse.push(question);
+    const randomNumber = Math.floor(Math.random() * this.notInUse.length);
+    const question = this.notInUse.splice(randomNumber, 1)[0];
+    this.inUse.push(question);
     return question;
   },
 
   removeQuestionFromUse(question) {
-    for (let i = 0; i < questions.inUse.length; i++) {
-      const cell = questions.inUse[i];
+    for (let i = 0; i < this.inUse.length; i++) {
+      const cell = this.inUse[i];
       if (cell.index === question.index) {
-        questions.inUse.splice(i, 1);
+        this.inUse.splice(i, 1);
         break;
       }
     }
