@@ -44,6 +44,8 @@ After the team taking their turn (the active team) has been given enough time to
 The tutor takes care of all the controls, inputting the teams' answers with proper formatting.
 If the team gets the answer correct, their piece gets dropped into the slot.
 If their answer is incorrect, the piece is not dropped and their turn is over.
+Note that incorrectly answered questions remain on the board until they are answered correctly.
+
 The tutor might periodically ask the teams to explain how they reached a correct answer to the rest of the students.
 The teams should also be encouraged to collaborate with each other, both on the math and the game strategy.
 The first team to get 4 of their colored pieces in a row (either horizontal, vertical, or diagonal) wins the round.
