@@ -326,5 +326,114 @@
     "possible-answers": [
       "0"
     ]
+  },
+  {
+    "question": "\\csc(0)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
+  },
+  {
+    "question": "\\csc(\\pi/6)=?",
+    "possible-answers": [
+      "2"
+    ]
+  },
+  {
+    "question": "\\csc(\\pi/4)=?",
+    "possible-answers": [
+      "sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\csc(\\pi/3)=?",
+    "possible-answers": [
+      "2sqrt(3)/3",
+      "2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\csc(\\pi/2)=?",
+    "possible-answers": [
+      "1"
+    ]
+  },
+  {
+    "question": "\\csc(2\\pi/3)=?",
+    "possible-answers": [
+      "2sqrt(3)/3",
+      "2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\csc(3\\pi/4)=?",
+    "possible-answers": [
+      "sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\csc(5\\pi/6)=?",
+    "possible-answers": [
+      "2"
+    ]
+  },
+  {
+    "question": "\\csc(\\pi)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
+  },
+  {
+    "question": "\\csc(7\\pi/6)=?",
+    "possible-answers": [
+      "-2"
+    ]
+  },
+  {
+    "question": "\\csc(5\\pi/4)=?",
+    "possible-answers": [
+      "-sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\csc(4\\pi/3)=?",
+    "possible-answers": [
+      "-2sqrt(3)/3",
+      "-2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\csc(3\\pi/2)=?",
+    "possible-answers": [
+      "-1"
+    ]
+  },
+  {
+    "question": "\\csc(5\\pi/3)=?",
+    "possible-answers": [
+      "-2sqrt(3)/3",
+      "-2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\csc(7\\pi/4)=?",
+    "possible-answers": [
+      "-sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\csc(11\\pi/6)=?",
+    "possible-answers": [
+      "-2"
+    ]
+  },
+  {
+    "question": "\\csc(2\\pi)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
   }
 ]
