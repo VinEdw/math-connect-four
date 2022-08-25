@@ -543,5 +543,114 @@
     "possible-answers": [
       "1"
     ]
+  },
+  {
+    "question": "\\cot(0)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
+  },
+  {
+    "question": "\\cot(\\pi/6)=?",
+    "possible-answers": [
+      "sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(\\pi/4)=?",
+    "possible-answers": [
+      "1"
+    ]
+  },
+  {
+    "question": "\\cot(\\pi/3)=?",
+    "possible-answers": [
+      "sqrt(3)/3",
+      "1/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(\\pi/2)=?",
+    "possible-answers": [
+      "0"
+    ]
+  },
+  {
+    "question": "\\cot(2\\pi/3)=?",
+    "possible-answers": [
+      "-sqrt(3)/3",
+      "-1/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(3\\pi/4)=?",
+    "possible-answers": [
+      "-1"
+    ]
+  },
+  {
+    "question": "\\cot(5\\pi/6)=?",
+    "possible-answers": [
+      "-sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(\\pi)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
+  },
+  {
+    "question": "\\cot(7\\pi/6)=?",
+    "possible-answers": [
+      "sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(5\\pi/4)=?",
+    "possible-answers": [
+      "1"
+    ]
+  },
+  {
+    "question": "\\cot(4\\pi/3)=?",
+    "possible-answers": [
+      "sqrt(3)/3",
+      "1/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(3\\pi/2)=?",
+    "possible-answers": [
+      "0"
+    ]
+  },
+  {
+    "question": "\\cot(5\\pi/3)=?",
+    "possible-answers": [
+      "-sqrt(3)/3",
+      "-1/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(7\\pi/4)=?",
+    "possible-answers": [
+      "-1"
+    ]
+  },
+  {
+    "question": "\\cot(11\\pi/6)=?",
+    "possible-answers": [
+      "-sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\cot(2\\pi)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
   }
 ]
