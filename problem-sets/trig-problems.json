@@ -435,5 +435,113 @@
       "undefined",
       "und"
     ]
+  },
+  {
+    "question": "\\sec(0)=?",
+    "possible-answers": [
+      "1"
+    ]
+  },
+  {
+    "question": "\\sec(\\pi/6)=?",
+    "possible-answers": [
+      "2sqrt(3)/3",
+      "2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\sec(\\pi/4)=?",
+    "possible-answers": [
+      "sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\sec(\\pi/3)=?",
+    "possible-answers": [
+      "2"
+    ]
+  },
+  {
+    "question": "\\sec(\\pi/2)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
+  },
+  {
+    "question": "\\sec(2\\pi/3)=?",
+    "possible-answers": [
+      "-2"
+    ]
+  },
+  {
+    "question": "\\sec(3\\pi/4)=?",
+    "possible-answers": [
+      "-sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\sec(5\\pi/6)=?",
+    "possible-answers": [
+      "-2sqrt(3)/3",
+      "-2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\sec(\\pi)=?",
+    "possible-answers": [
+      "-1"
+    ]
+  },
+  {
+    "question": "\\sec(7\\pi/6)=?",
+    "possible-answers": [
+      "-2sqrt(3)/3",
+      "-2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\sec(5\\pi/4)=?",
+    "possible-answers": [
+      "-sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\sec(4\\pi/3)=?",
+    "possible-answers": [
+      "-2"
+    ]
+  },
+  {
+    "question": "\\sec(3\\pi/2)=?",
+    "possible-answers": [
+      "undefined",
+      "und"
+    ]
+  },
+  {
+    "question": "\\sec(5\\pi/3)=?",
+    "possible-answers": [
+      "2"
+    ]
+  },
+  {
+    "question": "\\sec(7\\pi/4)=?",
+    "possible-answers": [
+      "sqrt(2)"
+    ]
+  },
+  {
+    "question": "\\sec(11\\pi/6)=?",
+    "possible-answers": [
+      "2sqrt(3)/3",
+      "2/sqrt(3)"
+    ]
+  },
+  {
+    "question": "\\sec(2\\pi)=?",
+    "possible-answers": [
+      "1"
+    ]
   }
 ]
