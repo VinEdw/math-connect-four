@@ -301,7 +301,6 @@ const popUp = {
         {left: '$$', right: '$$', display: true},
         {left: '$', right: '$', display: false},
       ],
-      // • rendering keys, e.g.:
       throwOnError : false,
     });
     this.answerInput.value = "";
