@@ -43,6 +43,12 @@ const questions = {
           this.notInUse.push(question);
         }
       }
+      // If all the questions are in use, then put them all up for reuse
+      if (this.notInUse.length === 0) {
+        for (const question of this.master) {
+          this.notInUse.push(question);
+        }
+      }
     }
     const randomNumber = Math.floor(Math.random() * this.notInUse.length);
     const question = this.notInUse.splice(randomNumber, 1)[0];
