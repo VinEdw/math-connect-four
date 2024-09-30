@@ -295,7 +295,15 @@ const popUp = {
   },
   loadQuestion(i) {
     const question = questions.getQuestionByIndex(i);
-    katex.render(question.question, this.questionLabel, { throwOnError: false });
+    this.questionLabel.textContent = question.question;
+    renderMathInElement(this.questionLabel, {
+      delimiters: [
+        {left: '$$', right: '$$', display: true},
+        {left: '$', right: '$', display: false},
+      ],
+      // • rendering keys, e.g.:
+      throwOnError : false,
+    });
     this.answerInput.value = "";
     this.show();
     this.answerInput.focus();

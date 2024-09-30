@@ -1,6 +1,6 @@
 [
   {
-    "question": "\\frac{d}{dx}x^n=?",
+    "question": "$\\frac{d}{dx}x^n=?$",
     "possible-answers": [
       "nx^(n-1)",
       "n*x^(n-1)",
@@ -9,13 +9,13 @@
     ]
   },
   {
-    "question": "\\frac{d}{dx}e^x=?",
+    "question": "$\\frac{d}{dx}e^x=?$",
     "possible-answers": [
       "e^x"
     ]
   },
   {
-    "question": "\\frac{d}{dx}a^x=?",
+    "question": "$\\frac{d}{dx}a^x=?$",
     "possible-answers": [
       "ln(a)a^x",
       "ln(a)*a^x",
@@ -24,13 +24,13 @@
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\ln(x)=?",
+    "question": "$\\frac{d}{dx}\\ln(x)=?$",
     "possible-answers": [
       "1/x"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\log_b(x)=?",
+    "question": "$\\frac{d}{dx}\\log_b(x)=?$",
     "possible-answers": [
       "1/(ln(b)x)",
       "1/(ln(b)*x)",
@@ -39,13 +39,13 @@
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\ln|x|=?",
+    "question": "$\\frac{d}{dx}\\ln|x|=?$",
     "possible-answers": [
       "1/x"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\log_b|x|=?",
+    "question": "$\\frac{d}{dx}\\log_b|x|=?$",
     "possible-answers": [
       "1/(ln|b|x)",
       "1/(ln|b|*x)",
@@ -54,57 +54,57 @@
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\sin(x)=?",
+    "question": "$\\frac{d}{dx}\\sin(x)=?$",
     "possible-answers": [
       "cos(x)"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\cos(x)=?",
+    "question": "$\\frac{d}{dx}\\cos(x)=?$",
     "possible-answers": [
       "-sin(x)"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\tan(x)=?",
+    "question": "$\\frac{d}{dx}\\tan(x)=?$",
     "possible-answers": [
       "sec^2(x)",
       "(sec(x))^2"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\sec(x)=?",
+    "question": "$\\frac{d}{dx}\\sec(x)=?$",
     "possible-answers": [
       "sec(x)tan(x)"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\csc(x)=?",
+    "question": "$\\frac{d}{dx}\\csc(x)=?$",
     "possible-answers": [
       "-csc(x)cot(x)"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\cot(x)=?",
+    "question": "$\\frac{d}{dx}\\cot(x)=?$",
     "possible-answers": [
       "-csc^2(x)",
       "-(csc(x))^2"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\sin^{-1}(x)=?",
+    "question": "$\\frac{d}{dx}\\sin^{-1}(x)=?$",
     "possible-answers": [
       "1/sqrt(1-x^2)"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\cos^{-1}(x)=?",
+    "question": "$\\frac{d}{dx}\\cos^{-1}(x)=?$",
     "possible-answers": [
       "-1/sqrt(1-x^2)"
     ]
   },
   {
-    "question": "\\frac{d}{dx}\\tan^{-1}(x)=?",
+    "question": "$\\frac{d}{dx}\\tan^{-1}(x)=?$",
     "possible-answers": [
       "1/(1+x^2)",
       "1/(x^2+1)"
