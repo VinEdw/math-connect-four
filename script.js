@@ -231,7 +231,7 @@ const columnPicker = {
     }
     const newQuestion = questions.getRandomQuestion();
     cell.dataset.questionIndex = newQuestion.index;
-    katex.render(newQuestion.question, cell, { throwOnError: false });
+    cell.textContent = Number.parseInt(cell.dataset.columnIndex, 10) + 1;
   },
 
 };
