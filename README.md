@@ -7,6 +7,8 @@ Otherwise, your turn is skipped and your opponent can get ahead.
 
 If you have any questions or suggestions, [email me](mailto:mister.man489@gmail.com?subject=Math%20Connect%20Four) or open an issue on this repository.
 
+[KaTeX](https://katex.org/) is utilized for the Math Typesetting.
+
 ## Problem Sets
 
 You are able to create your own problem sets to use with this game.
