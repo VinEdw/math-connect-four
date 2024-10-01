@@ -1,0 +1,161 @@
+[
+  {
+    "question": "Multiple Choice: You swing a bat and hit a heavy box with a force of 1500 N. The force the box exerts on the bat is A) exactly 1500 N only if the box does not move; B) exactly 1500 N whether or not the box moves; C) greater than 1500 N if the box moves; D) less than 1500 N if the box moves; E) greater than 1500 N if the bat bounces back.",
+    "possible-answers": [
+      "B",
+      "b"
+    ]
+  },
+  {
+    "question": "Multiple Choice: You are seated in a bus and notice that a hand strap that is hanging from the ceiling hangs away from the vertical in the backward direction, towards the rear of the bus. From this observation, you can conclude that A) the velocity of the bus is forward; B) the velocity of the bus is backward; C) You cannot conclude anything about the direction of the velocity of the bus.",
+    "possible-answers": [
+      "C",
+      "c"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Suppose the force of the air drag on an object is proportional to the speed of the object and in the direction opposite the object’s velocity. If you throw an object upward, the magnitude of its acceleration is greatest… A) right after the object is released; B) at the top of the trajectory; C) The acceleration of the object is the same throughout the entire trajectory.",
+    "possible-answers": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A dog is standing in the bed of a pickup truck. The bed is coated with ice, causing the force of friction between the dog and the truck to be zero. The truck is initially at rest, and then accelerates to the right, moving along a flat road. As seen from a stationary observer (watching the truck move to the right), the dog… A) does not move left or right, but the back of the truck moves towards the dog; B) moves to the right, but not as quickly as the truck is moving to the right, causing it to slide towards the back of the truck; C) moves to the right at the same rate as the truck, so it doesn’t slide; D) moves to the left, as the truck moves to the right, causing the dog to slide towards the back of the truck.",
+    "possible-answers": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A ball is thrown horizontally from the top of a tower at the same instant that a stone is dropped vertically. Which object is traveling faster when it hits the level ground below if neither of them experiences any air resistance? A) It is impossible to tell because we do not know their masses.; B) the stone; C) the ball; D) Both are traveling at the same speed.",
+    "possible-answers": [
+      "C",
+      "c"
+    ]
+  },
+  {
+    "question": "Fill In the Blank: Objects in free fall accelerate at ___ m/s² towards the ground.",
+    "possible-answers": [
+      "9.8",
+      "9.81"
+    ]
+  },
+  {
+    "question": "(T/F): $F_g = G \\frac {m_1 m_2} {r}$ is the equation for Newton's Law of Universal Gravitation.",
+    "possible-answers": [
+      "F",
+      "f"
+    ]
+  },
+  {
+    "question": "(T/F): The force of gravity from a person on the Earth is less than the force of gravity from the Earth on the person.",
+    "possible-answers": [
+      "F",
+      "f"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A bus crashes into an insect. The force from the bus on the insect is ___ the force from the insect on the bus. A) greater than; B) equal to; C) less than;",
+    "possible-answers": [
+      "B",
+      "b"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A stalled car is being pushed up a hill at constant velocity by three people. The net force on the car is A) zero; B) up the hill and equal to the weight of the car; C) up the hill and greater than the weight of the car; D) down the hill and greater than the weight of the car; E) down the hill and equal to the weight of the car.",
+    "possible-answers": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "question": "(T/F): In order to lift a bucket of concrete, you must pull up harder on the bucket than it pulls down on you.",
+    "possible-answers": [
+      "F",
+      "f"
+    ]
+  },
+  {
+    "question": "A box of mass $m$ is pulled with a constant acceleration $a$ along a horizontal frictionless floor by a wire that makes an angle of 15° above the horizontal. If $T$ is the tension in the wire, then A) $T > ma$; B) $T < ma$; C) $T = ma$",
+    "possible-answers": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "question": "Fill In the Blank: Normal force pushes in a direction ___ to the surfaces in contact.",
+    "possible-answers": [
+      "perpendicular"
+    ]
+  },
+  {
+    "question": "Fill In the Blank: Friction force pushes in a direction ___ to the surfaces in contact.",
+    "possible-answers": [
+      "parallel"
+    ]
+  },
+  {
+    "question": "(T/F): 1 N equals 1 kg m/s.",
+    "possible-answers": [
+      "F",
+      "f"
+    ]
+  },
+  {
+    "question": "(T/F): $f_k = \\mu_k n$ is the equation for kinetic friction force.",
+    "possible-answers": [
+      "T",
+      "t"
+    ]
+  },
+  {
+    "question": "(T/F): $f_s = \\mu_s n$ is the equation for static friction force.",
+    "possible-answers": [
+      "F",
+      "f"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A pilot drops a package from a plane flying horizontally at a constant speed. Neglecting air resistance, when the package hits the ground the horizontal location of the plane will A) be in front of the package; B) be behind the package; C) depend on the speed of the plane when the package is released; D) be directly overhead.",
+    "possible-answers": [
+      "D",
+      "d"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Suppose that a car traveling to the west begins to slow down as it approaches a traffic light. Which of the following statements about its acceleration is correct? A) Since the car is slowing down, its acceleration must be negative; B)The acceleration is zero; C)The acceleration is toward the east; D)The acceleration is toward the west.",
+    "possible-answers": [
+      "C",
+      "c"
+    ]
+  },
+  {
+    "question": "Multiple Choice: An object is moving with constant non-zero velocity. Which of the following statements about it must be true? A) The net force on the object is zero; B) A constant force is being applied to it in the direction opposite of motion; C) A constant force is being applied to it perpendicular to the direction of motion; D) Its acceleration is in the same direction as it velocity; E) A constant force is being applied to it in the direction of motion.",
+    "possible-answers": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Which of the following situations is impossible? A) An object has constant non-zero velocity and changing acceleration; B) An object has constant non-zero acceleration and changing velocity; C) An object has velocity directed east and acceleration directed west; D) An object has velocity directed east and acceleration directed east; E) An object has zero velocity but non-zero acceleration.",
+    "possible-answers": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Suppose that an object travels from one point in space to another. Make a comparison between themagnitude of the displacement and the distance traveled by this object. A)The displacement is either greater than or equal to the distance traveled; B)The displacement is either less than or equal to the distance traveled; C)The displacement can be either greater than, smaller than, or equal to the distance traveled; D)The displacement is always equal to the distance traveled.",
+    "possible-answers": [
+      "B",
+      "b"
+    ]
+  },
+  {
+    "question": "Multiple Choice: You are standing in a moving bus, facing forward, and you suddenly fall forward as the bus comes to an immediate stop. The force acting on you that causes you to fall forward is A) the force due to kinetic friction between you and the floor of the bus; B) the normal force due to your contact with the floor of the bus; C) the force of gravity; D) the force due to static friction between you and the floor of the bus; E) no forces were acting on you to cause you to fall.",
+    "possible-answers": [
+      "A",
+      "a"
+    ]
+  }
+]
