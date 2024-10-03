@@ -114,6 +114,10 @@
   font-size: 1em;
 }
 
+#answer-input {
+  width: 100%;
+}
+
 #answer-submission-pop-up #close-button {
   background-color: red;
   color: white;
