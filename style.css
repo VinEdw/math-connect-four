@@ -103,6 +103,7 @@
   font-size: 2em;
   background-color: silver;
   z-index: 1;
+  border: 1px solid black;
 }
 
 #answer-submission-pop-up[data-hidden="1"] {
