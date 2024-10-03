@@ -118,6 +118,10 @@
   font-size: 1em;
 }
 
+#question-label {
+  white-space: pre-line;
+}
+
 #answer-input {
   width: 100%;
 }
