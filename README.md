@@ -23,7 +23,8 @@ Such problem sets are stored in a `.json` file with the following structure:
       "possible answer 2"
     ]
   },
-  // repeat the above section in curly braces for each question
+  // Repeat the above section in curly braces for each question
+  // Make sure to remove the comma after the closing brace of the last question 
 ]
 ```
 
@@ -31,8 +32,14 @@ The JSON file you wish to use should be selected in the form on the startup page
 These questions will be randomly used throughout the games.
 It will avoid repeating a problem until all the problems have been gone through.
 
-There are two pre-made problems sets in the `problem-sets` folder.
-One has some simple trig evaluation questions, while the other has some simple derivatives.
+In the question text, math expressions between ``$` `` and `` `$`` will be rendered inline while math equations between `$$` and `$$` will be rendered block-level.
+See the [KaTeX reference sheet](https://katex.org/docs/supported) for supported math expressions.
+If you would like to include a backslash in a string, such as when creating math expressions, use `\\`.
+If you would like to include a newline character in a string, such as when listing out multiple choice options, use `\n`.
+
+There are a few pre-made problems sets in the `problem-sets` folder.
+
+For those not familiar with JSON, make sure to remove trailing commas on the last element of an array or the last key-value pair of an object.
 
 ## Use Instructions
 
