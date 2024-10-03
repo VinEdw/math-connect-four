@@ -1,653 +1,653 @@
 [
   {
-    "question": "$\\sin(0)=?$",
+    "question": "$`\\sin(0)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\sin(\\pi/6)=?$",
+    "question": "$`\\sin(\\pi/6)=?`$",
     "possible-answers": [
       "1/2",
       "0.5"
     ]
   },
   {
-    "question": "$\\sin(\\pi/4)=?$",
+    "question": "$`\\sin(\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)/2",
       "1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\sin(\\pi/3)=?$",
+    "question": "$`\\sin(\\pi/3)=?`$",
     "possible-answers": [
       "sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\sin(\\pi/2)=?$",
+    "question": "$`\\sin(\\pi/2)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\sin(2\\pi/3)=?$",
+    "question": "$`\\sin(2\\pi/3)=?`$",
     "possible-answers": [
       "sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\sin(3\\pi/4)=?$",
+    "question": "$`\\sin(3\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)/2",
       "1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\sin(5\\pi/6)=?$",
+    "question": "$`\\sin(5\\pi/6)=?`$",
     "possible-answers": [
       "1/2",
       "0.5"
     ]
   },
   {
-    "question": "$\\sin(\\pi)=?$",
+    "question": "$`\\sin(\\pi)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\sin(7\\pi/6)=?$",
+    "question": "$`\\sin(7\\pi/6)=?`$",
     "possible-answers": [
       "-1/2",
       "-0.5"
     ]
   },
   {
-    "question": "$\\sin(5\\pi/4)=?$",
+    "question": "$`\\sin(5\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)/2",
       "-1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\sin(4\\pi/3)=?$",
+    "question": "$`\\sin(4\\pi/3)=?`$",
     "possible-answers": [
       "-sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\sin(3\\pi/2)=?$",
+    "question": "$`\\sin(3\\pi/2)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\sin(5\\pi/3)=?$",
+    "question": "$`\\sin(5\\pi/3)=?`$",
     "possible-answers": [
       "-sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\sin(7\\pi/4)=?$",
+    "question": "$`\\sin(7\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)/2",
       "-1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\sin(11\\pi/6)=?$",
+    "question": "$`\\sin(11\\pi/6)=?`$",
     "possible-answers": [
       "-1/2",
       "-0.5"
     ]
   },
   {
-    "question": "$\\sin(2\\pi)=?$",
+    "question": "$`\\sin(2\\pi)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\cos(0)=?$",
+    "question": "$`\\cos(0)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\cos(\\pi/6)=?$",
+    "question": "$`\\cos(\\pi/6)=?`$",
     "possible-answers": [
       "sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\cos(\\pi/4)=?$",
+    "question": "$`\\cos(\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)/2",
       "1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\cos(\\pi/3)=?$",
+    "question": "$`\\cos(\\pi/3)=?`$",
     "possible-answers": [
       "1/2",
       "0.5"
     ]
   },
   {
-    "question": "$\\cos(\\pi/2)=?$",
+    "question": "$`\\cos(\\pi/2)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\cos(2\\pi/3)=?$",
+    "question": "$`\\cos(2\\pi/3)=?`$",
     "possible-answers": [
       "-1/2",
       "-0.5"
     ]
   },
   {
-    "question": "$\\cos(3\\pi/4)=?$",
+    "question": "$`\\cos(3\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)/2",
       "-1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\cos(5\\pi/6)=?$",
+    "question": "$`\\cos(5\\pi/6)=?`$",
     "possible-answers": [
       "-sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\cos(\\pi)=?$",
+    "question": "$`\\cos(\\pi)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\cos(7\\pi/6)=?$",
+    "question": "$`\\cos(7\\pi/6)=?`$",
     "possible-answers": [
       "-sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\cos(5\\pi/4)=?$",
+    "question": "$`\\cos(5\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)/2",
       "-1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\cos(4\\pi/3)=?$",
+    "question": "$`\\cos(4\\pi/3)=?`$",
     "possible-answers": [
       "-1/2",
       "-0.5"
     ]
   },
   {
-    "question": "$\\cos(3\\pi/2)=?$",
+    "question": "$`\\cos(3\\pi/2)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\cos(5\\pi/3)=?$",
+    "question": "$`\\cos(5\\pi/3)=?`$",
     "possible-answers": [
       "1/2",
       "0.5"
     ]
   },
   {
-    "question": "$\\cos(7\\pi/4)=?$",
+    "question": "$`\\cos(7\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)/2",
       "1/sqrt(2)"
     ]
   },
   {
-    "question": "$\\cos(11\\pi/6)=?$",
+    "question": "$`\\cos(11\\pi/6)=?`$",
     "possible-answers": [
       "sqrt(3)/2"
     ]
   },
   {
-    "question": "$\\cos(2\\pi)=?$",
+    "question": "$`\\cos(2\\pi)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\tan(0)=?$",
+    "question": "$`\\tan(0)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\tan(\\pi/6)=?$",
+    "question": "$`\\tan(\\pi/6)=?`$",
     "possible-answers": [
       "sqrt(3)/3",
       "1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(\\pi/4)=?$",
+    "question": "$`\\tan(\\pi/4)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\tan(\\pi/3)=?$",
+    "question": "$`\\tan(\\pi/3)=?`$",
     "possible-answers": [
       "sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(\\pi/2)=?$",
+    "question": "$`\\tan(\\pi/2)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\tan(2\\pi/3)=?$",
+    "question": "$`\\tan(2\\pi/3)=?`$",
     "possible-answers": [
       "-sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(3\\pi/4)=?$",
+    "question": "$`\\tan(3\\pi/4)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\tan(5\\pi/6)=?$",
+    "question": "$`\\tan(5\\pi/6)=?`$",
     "possible-answers": [
       "-sqrt(3)/3",
       "-1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(\\pi)=?$",
+    "question": "$`\\tan(\\pi)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\tan(7\\pi/6)=?$",
+    "question": "$`\\tan(7\\pi/6)=?`$",
     "possible-answers": [
       "sqrt(3)/3",
       "1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(5\\pi/4)=?$",
+    "question": "$`\\tan(5\\pi/4)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\tan(4\\pi/3)=?$",
+    "question": "$`\\tan(4\\pi/3)=?`$",
     "possible-answers": [
       "sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(3\\pi/2)=?$",
+    "question": "$`\\tan(3\\pi/2)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\tan(5\\pi/3)=?$",
+    "question": "$`\\tan(5\\pi/3)=?`$",
     "possible-answers": [
       "-sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(7\\pi/4)=?$",
+    "question": "$`\\tan(7\\pi/4)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\tan(11\\pi/6)=?$",
+    "question": "$`\\tan(11\\pi/6)=?`$",
     "possible-answers": [
       "-sqrt(3)/3",
       "-1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\tan(2\\pi)=?$",
+    "question": "$`\\tan(2\\pi)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\csc(0)=?$",
+    "question": "$`\\csc(0)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\csc(\\pi/6)=?$",
+    "question": "$`\\csc(\\pi/6)=?`$",
     "possible-answers": [
       "2"
     ]
   },
   {
-    "question": "$\\csc(\\pi/4)=?$",
+    "question": "$`\\csc(\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)"
     ]
   },
   {
-    "question": "$\\csc(\\pi/3)=?$",
+    "question": "$`\\csc(\\pi/3)=?`$",
     "possible-answers": [
       "2sqrt(3)/3",
       "2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\csc(\\pi/2)=?$",
+    "question": "$`\\csc(\\pi/2)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\csc(2\\pi/3)=?$",
+    "question": "$`\\csc(2\\pi/3)=?`$",
     "possible-answers": [
       "2sqrt(3)/3",
       "2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\csc(3\\pi/4)=?$",
+    "question": "$`\\csc(3\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)"
     ]
   },
   {
-    "question": "$\\csc(5\\pi/6)=?$",
+    "question": "$`\\csc(5\\pi/6)=?`$",
     "possible-answers": [
       "2"
     ]
   },
   {
-    "question": "$\\csc(\\pi)=?$",
+    "question": "$`\\csc(\\pi)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\csc(7\\pi/6)=?$",
+    "question": "$`\\csc(7\\pi/6)=?`$",
     "possible-answers": [
       "-2"
     ]
   },
   {
-    "question": "$\\csc(5\\pi/4)=?$",
+    "question": "$`\\csc(5\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)"
     ]
   },
   {
-    "question": "$\\csc(4\\pi/3)=?$",
+    "question": "$`\\csc(4\\pi/3)=?`$",
     "possible-answers": [
       "-2sqrt(3)/3",
       "-2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\csc(3\\pi/2)=?$",
+    "question": "$`\\csc(3\\pi/2)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\csc(5\\pi/3)=?$",
+    "question": "$`\\csc(5\\pi/3)=?`$",
     "possible-answers": [
       "-2sqrt(3)/3",
       "-2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\csc(7\\pi/4)=?$",
+    "question": "$`\\csc(7\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)"
     ]
   },
   {
-    "question": "$\\csc(11\\pi/6)=?$",
+    "question": "$`\\csc(11\\pi/6)=?`$",
     "possible-answers": [
       "-2"
     ]
   },
   {
-    "question": "$\\csc(2\\pi)=?$",
+    "question": "$`\\csc(2\\pi)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\sec(0)=?$",
+    "question": "$`\\sec(0)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\sec(\\pi/6)=?$",
+    "question": "$`\\sec(\\pi/6)=?`$",
     "possible-answers": [
       "2sqrt(3)/3",
       "2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\sec(\\pi/4)=?$",
+    "question": "$`\\sec(\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)"
     ]
   },
   {
-    "question": "$\\sec(\\pi/3)=?$",
+    "question": "$`\\sec(\\pi/3)=?`$",
     "possible-answers": [
       "2"
     ]
   },
   {
-    "question": "$\\sec(\\pi/2)=?$",
+    "question": "$`\\sec(\\pi/2)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\sec(2\\pi/3)=?$",
+    "question": "$`\\sec(2\\pi/3)=?`$",
     "possible-answers": [
       "-2"
     ]
   },
   {
-    "question": "$\\sec(3\\pi/4)=?$",
+    "question": "$`\\sec(3\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)"
     ]
   },
   {
-    "question": "$\\sec(5\\pi/6)=?$",
+    "question": "$`\\sec(5\\pi/6)=?`$",
     "possible-answers": [
       "-2sqrt(3)/3",
       "-2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\sec(\\pi)=?$",
+    "question": "$`\\sec(\\pi)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\sec(7\\pi/6)=?$",
+    "question": "$`\\sec(7\\pi/6)=?`$",
     "possible-answers": [
       "-2sqrt(3)/3",
       "-2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\sec(5\\pi/4)=?$",
+    "question": "$`\\sec(5\\pi/4)=?`$",
     "possible-answers": [
       "-sqrt(2)"
     ]
   },
   {
-    "question": "$\\sec(4\\pi/3)=?$",
+    "question": "$`\\sec(4\\pi/3)=?`$",
     "possible-answers": [
       "-2"
     ]
   },
   {
-    "question": "$\\sec(3\\pi/2)=?$",
+    "question": "$`\\sec(3\\pi/2)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\sec(5\\pi/3)=?$",
+    "question": "$`\\sec(5\\pi/3)=?`$",
     "possible-answers": [
       "2"
     ]
   },
   {
-    "question": "$\\sec(7\\pi/4)=?$",
+    "question": "$`\\sec(7\\pi/4)=?`$",
     "possible-answers": [
       "sqrt(2)"
     ]
   },
   {
-    "question": "$\\sec(11\\pi/6)=?$",
+    "question": "$`\\sec(11\\pi/6)=?`$",
     "possible-answers": [
       "2sqrt(3)/3",
       "2/sqrt(3)"
     ]
   },
   {
-    "question": "$\\sec(2\\pi)=?$",
+    "question": "$`\\sec(2\\pi)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\cot(0)=?$",
+    "question": "$`\\cot(0)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\cot(\\pi/6)=?$",
+    "question": "$`\\cot(\\pi/6)=?`$",
     "possible-answers": [
       "sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(\\pi/4)=?$",
+    "question": "$`\\cot(\\pi/4)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\cot(\\pi/3)=?$",
+    "question": "$`\\cot(\\pi/3)=?`$",
     "possible-answers": [
       "sqrt(3)/3",
       "1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(\\pi/2)=?$",
+    "question": "$`\\cot(\\pi/2)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\cot(2\\pi/3)=?$",
+    "question": "$`\\cot(2\\pi/3)=?`$",
     "possible-answers": [
       "-sqrt(3)/3",
       "-1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(3\\pi/4)=?$",
+    "question": "$`\\cot(3\\pi/4)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\cot(5\\pi/6)=?$",
+    "question": "$`\\cot(5\\pi/6)=?`$",
     "possible-answers": [
       "-sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(\\pi)=?$",
+    "question": "$`\\cot(\\pi)=?`$",
     "possible-answers": [
       "undefined",
       "und"
     ]
   },
   {
-    "question": "$\\cot(7\\pi/6)=?$",
+    "question": "$`\\cot(7\\pi/6)=?`$",
     "possible-answers": [
       "sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(5\\pi/4)=?$",
+    "question": "$`\\cot(5\\pi/4)=?`$",
     "possible-answers": [
       "1"
     ]
   },
   {
-    "question": "$\\cot(4\\pi/3)=?$",
+    "question": "$`\\cot(4\\pi/3)=?`$",
     "possible-answers": [
       "sqrt(3)/3",
       "1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(3\\pi/2)=?$",
+    "question": "$`\\cot(3\\pi/2)=?`$",
     "possible-answers": [
       "0"
     ]
   },
   {
-    "question": "$\\cot(5\\pi/3)=?$",
+    "question": "$`\\cot(5\\pi/3)=?`$",
     "possible-answers": [
       "-sqrt(3)/3",
       "-1/sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(7\\pi/4)=?$",
+    "question": "$`\\cot(7\\pi/4)=?`$",
     "possible-answers": [
       "-1"
     ]
   },
   {
-    "question": "$\\cot(11\\pi/6)=?$",
+    "question": "$`\\cot(11\\pi/6)=?`$",
     "possible-answers": [
       "-sqrt(3)"
     ]
   },
   {
-    "question": "$\\cot(2\\pi)=?$",
+    "question": "$`\\cot(2\\pi)=?`$",
     "possible-answers": [
       "undefined",
       "und"
