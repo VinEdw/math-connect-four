@@ -1,7 +1,7 @@
 /* team banner*/
 #team-banner {
   text-align: center;
-  background-color: gray;
+  background-color: silver;
   font-size: 2em;
 }
 
@@ -101,7 +101,7 @@
   transform: translateX(-50%) translateY(-50%);
   padding: 1em;
   font-size: 2em;
-  background-color: gray;
+  background-color: silver;
   z-index: 1;
 }
 
