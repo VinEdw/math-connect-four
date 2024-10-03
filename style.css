@@ -127,3 +127,8 @@
   color: white;
   margin-bottom: 1em;
 }
+
+#close-button:hover {
+  cursor: pointer;
+}
+
