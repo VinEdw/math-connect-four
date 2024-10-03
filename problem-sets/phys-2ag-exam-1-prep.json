@@ -42,7 +42,7 @@
     ]
   },
   {
-    "question": "(T/F): $F_g = G \\frac {m_1 m_2} {r}$ is the equation for Newton's Law of Universal Gravitation.",
+    "question": "(T/F): $`F_g = G \\frac {m_1 m_2} {r}`$ is the equation for Newton's Law of Universal Gravitation.",
     "possible-answers": [
       "F",
       "f"
@@ -77,7 +77,7 @@
     ]
   },
   {
-    "question": "A box of mass $m$ is pulled with a constant acceleration $a$ along a horizontal frictionless floor by a wire that makes an angle of 15° above the horizontal. If $T$ is the tension in the wire, then\n- A) $T > ma$\n- B) $T < ma$\n- C) $T = ma$",
+    "question": "Multiple Choice: A box of mass $`m`$ is pulled with a constant acceleration $`a`$ along a horizontal frictionless floor by a wire that makes an angle of 15° above the horizontal. If $`T`$ is the tension in the wire, then\n- A) $`T > ma`$\n- B) $`T < ma`$\n- C) $`T = ma`$",
     "possible-answers": [
       "A",
       "a"
@@ -103,14 +103,14 @@
     ]
   },
   {
-    "question": "(T/F): $f_k = \\mu_k n$ is the equation for kinetic friction force.",
+    "question": "(T/F): $`f_k = \\mu_k n`$ is the equation for kinetic friction force.",
     "possible-answers": [
       "T",
       "t"
     ]
   },
   {
-    "question": "(T/F): $f_s = \\mu_s n$ is the equation for static friction force.",
+    "question": "(T/F): $`f_s = \\mu_s n`$ is the equation for static friction force.",
     "possible-answers": [
       "F",
       "f"
