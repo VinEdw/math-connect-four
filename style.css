@@ -126,7 +126,7 @@
   width: 100%;
 }
 
-#answer-submission-pop-up #close-button {
+#close-button {
   background-color: red;
   color: white;
   margin-bottom: 1em;
