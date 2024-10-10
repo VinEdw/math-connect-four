@@ -301,6 +301,10 @@ const popUp = {
   },
   loadQuestion(i) {
     const question = questions.getQuestionByIndex(i);
+    this.answerInput.value = "";
+    this.show();
+    this.answerInput.focus();
+    console.log(question["possible-answers"]);
     this.questionLabel.textContent = question.question;
     renderMathInElement(this.questionLabel, {
       delimiters: [
@@ -309,10 +313,6 @@ const popUp = {
       ],
       throwOnError : false,
     });
-    this.answerInput.value = "";
-    this.show();
-    this.answerInput.focus();
-    console.log(question["possible-answers"]);
   },
 };
 popUp.init()
