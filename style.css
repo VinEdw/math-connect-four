@@ -39,7 +39,7 @@
   margin-bottom: 5%;
 }
 
-#column-picker div:hover {
+#column-picker div[data-column-filled="0"]:hover {
   cursor: pointer;
 }
 
