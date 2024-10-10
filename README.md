@@ -43,10 +43,11 @@ For those not familiar with JSON, make sure to remove trailing commas on the las
 
 ## Use Instructions
 
-Currently this mini website is not hosted anywhere.
-If you wish to use it yourself, you would have to download the files into a folder on your computer (or clone the repo) and open `index.html` in a web browser.
-Next, you select the JSON problem set you wish to use.
+Currently this [mini website](https://vinedw.github.io/math-connect-four/) is hosted via GitHub Pages.
+If you wish to use it yourself, you would have to create a JSON problem set or download an existing one.
+Next, you go to the site and select the JSON problem set you wish to use.
 Afterwards, the game board will load in with questions randomly picked.
+The browser console will print the possible answers for the question whenever a column is selected.
 
 The game was designed for a tutor to split their students into 2 teams.
 After the team taking their turn (the active team) has been given enough time to choose a column to drop their piece and have agreed upon the answer, the opposing team chooses one member of the active team to share their answer with the tutor.
