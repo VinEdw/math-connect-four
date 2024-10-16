@@ -268,11 +268,16 @@ const popUp = {
   init() {
     this.form.addEventListener("submit", (e) => {
       e.preventDefault();
+      popUp.hide();
       const cell = columnPicker.getTarget();
       const question = questions.getQuestionByIndex(cell.dataset.questionIndex);
-      const answer = popUp.answerInput.value;
-      popUp.hide();
-      if (question["possible-answers"].includes(answer)) {
+      const caseSensitive = (question.caseSensitive === undefined) ? false : question.caseSensitive;
+      const userResponse = popUp.answerInput.value;
+      const correct = question["possible-answers"].some(x => caseSensitive
+        ? x === userResponse
+        : x.localeCompare(userResponse, "en", { sensitivity: "base" }) === 0
+      );
+      if (correct) {
         columnPicker.getNewQuestion(cell);
         gameBoard.dropPiece();
       }

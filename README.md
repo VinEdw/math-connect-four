@@ -21,10 +21,12 @@ Such problem sets are stored in a `.json` file with the following structure:
     "possible-answers": [
       "possible answer 1",
       "possible answer 2"
-    ]
+    ],
+    "caseSensitive": true
   },
   // Repeat the above section in curly braces for each question
   // Make sure to remove the comma after the closing brace of the last question 
+  // The "caseSensitive" attribute can be set to true or false; It is optional, defaulting to false
 ]
 ```
 
