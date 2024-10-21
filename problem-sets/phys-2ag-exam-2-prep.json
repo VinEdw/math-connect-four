@@ -1,0 +1,135 @@
+[
+  {
+    "question": "Multiple Choice: An object is moving in a cirle at a constant speed. Which of the following statements about its acceleration is true.\n- A) Acceleration is towards the outside of the cirle\n- B) Acceleration is towards the center of the cirle\n- C) Acceleration is directed tangent to the circle\n- D) It experiences no acceleration",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "(T/F): An object moving at a constant speed must have zero acceleration.",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "(T/F): An object moving at a constant speed in a straight line must have zero acceleration.",
+    "possible-answers": [
+      "T"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A train crashes into ping pong ball. Which of the following statements is true.\n- A) The ping pong ball pushes harder on the train than the train pushes on the ping pong ball.\n- B) The train pushes harder on the ping pong ball than the ping pong ball pushes on the train.\n- C) The train pushes on the ping pong ball with the same force that the ping pong ball pushes on the train.",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A train crashes into ping pong ball. Which of the following statements is true.\n- A) The ping pong ball experiences greater acceleration than the train.\n- B) The train experiences greater acceleration than the ping pong ball.\n- C) The ping pong ball and the train experience the same acceleration.",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: When a care goes around a circular curve on a horizontal road at a constant speed, what force causes it to follow the circular path?\n- A) The normal force from the road\n- B) The kinetic friction force from the road\n- C) The static friction force from the road\n- D) Gravity\n- E) No forces cause the car to do this because the car is traveling at a constant speed and therefore has no acceleration.",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "(T/F): Work is always positive, never negative or zero.",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "(T/F): Work is equal to the magnitude of force ($`F`$) times the magnitude of displacement ($`\\Delta x`$).",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "(T/F): Work is zero if the force and displacement vectors are parallel.",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "(T/F): Work does not depend on the time it takes a force to act over a displacement.",
+    "possible-answers": [
+      "T"
+    ]
+  },
+  {
+    "question": "(T/F): Power does not depends on the time it takes a force to do work.",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "Multiple Choice: You throw a baseball straight up. Compare the sign of the work done by gravity while the ball goes up with the sign of the work done by gravity while it goes down.\n- A) The work is positive on the way up and negative on the way down.\n- B) The work is negative on the way up and on the way down because gravity is always downward.\n- C) The work is negative on the way up and positive on the way down.\n- D) The work is positive on the way up and positive on the way down.",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A ball is attached to a string and spun around in a horizontal circle at a constant speed. The work done on the ball during one revolution is ___.\n- A) Positive\n- B) Zero\n- C) Negative",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "(T/F): Energy is a vector, and thus has direction and magnitude.",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "Fill In the Blank: If an object is moving, it must have ___ energy.",
+    "possible-answers": [
+      "kinetic"
+    ]
+  },
+  {
+    "question": "(T/F): Kinetic energy can be negative.",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "Fill In the Blank: If the height of an object above the ground changes, then its ___ energy must change as well.",
+    "possible-answers": [
+      "gravitational potential"
+    ]
+  },
+  {
+    "question": "(T/F): Gravitational potential energy can be negative.",
+    "possible-answers": [
+      "T"
+    ]
+  },
+  {
+    "question": "Fill In the Blank: When a spring is stretched or compressed, it must have ___ energy.",
+    "possible-answers": [
+      "spring potential",
+      "elastic potential"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Two balls are dropped from the same height. $`m_1 > m_2`$. Which of the following statements is true:\n- A) The balls start with the same gravitational potential energy\n- B) The balls land with the same kinetic energy\n- C) The mechanical energy of ball 1 is greater than ball 2\n- D) The final velocity of ball 1 is greater than ball 2",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A ball is thrown horizontally from the top of a tower at the same instant that a stone is dropped vertically. Which object is traveling faster when it hits the level ground below if neither of them experiences any air resistance?\n- A) It is impossible to tell because we do not know their masses.\n- B) The stone\n- C) The ball\n- D) Both are traveling at the same speed",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A liquid and a solid are mixed and reach an equilibrium temperature. Which of the following statements is false.\n- A) The equilibrium temperature is no more than the initial temperature of the solid and no less than the liquid\n- B) The liquid loses thermal energy and the solid gains thermal energy\n- C) The liquid and the solid reach the same final temperature\n- D) The liquid gains thermal energy and the solid loses thermal energy",
+    "possible-answers": [
+      "B"
+    ]
+  }
+]
