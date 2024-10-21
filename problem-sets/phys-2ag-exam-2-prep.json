@@ -127,7 +127,7 @@
     ]
   },
   {
-    "question": "Multiple Choice: A liquid and a solid are mixed and reach an equilibrium temperature. Which of the following statements is false.\n- A) The equilibrium temperature is no more than the initial temperature of the solid and no less than the liquid\n- B) The liquid loses thermal energy and the solid gains thermal energy\n- C) The liquid and the solid reach the same final temperature\n- D) The liquid gains thermal energy and the solid loses thermal energy",
+    "question": "Multiple Choice: A liquid and a solid are mixed and reach an equilibrium temperature. The solid starts at a higher temperature than the liquid. Which of the following statements is false.\n- A) The equilibrium temperature is lower than the initial temperature of the solid and greater than initial temperature of the liquid\n- B) The liquid loses thermal energy and the solid gains thermal energy\n- C) The liquid and the solid reach the same final temperature\n- D) The liquid gains thermal energy and the solid loses thermal energy",
     "possible-answers": [
       "B"
     ]
