@@ -78,6 +78,18 @@
     ]
   },
   {
+    "question": "(T/F): Energy can be created or destroyed.",
+    "possible-answers": [
+      "F"
+    ]
+  },
+  {
+    "question": "(T/F): Energy can be transformed from one form to another.",
+    "possible-answers": [
+      "T"
+    ]
+  },
+  {
     "question": "(T/F): Energy is a vector, and thus has direction and magnitude.",
     "possible-answers": [
       "F"
