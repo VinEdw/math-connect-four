@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Numeric Answer: The distance around a running track is 400 m. A runner can complete 4 laps in 7 minutes. What is their average speed in m/s? (Answer to 3 sig figs)",
+    "possible-answers": [
+      "3.81"
+    ]
+  },
+  {
+    "question": "Numeric Answer: The distance around a running track is 400 m. A runner can complete 4 laps in 7 minutes. What is their average velocity in m/s? (Answer to 3 sig figs)",
+    "possible-answers": [
+      "0"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A person is standing on the ground. As usual, the Earth pulls down on the person via gravity. What is the Newton's Third Law pair for that force?\n- A) The ground pushes up on the person via normal force\n- B) The person pulls up on the Earth via gravity\n- C) The person pushes down on the ground via normal force\n- D) The ground pushes sideways on the person via friction",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A bus crashes into an insect. The force from the bus on the insect is ___ the force from the insect on the bus.\n- A) greater than\n- B) equal to\n- C) less than;",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Three rocks are thrown off a building at the same speed and at the same time. Rock A is thrown off horizontally. Rock B is thrown off at 45° above horizontal. Rock C is thrown off at 45° below horizontal. Which rock has the greatest speed when it hits the ground?\n- A) Rock A\n- B) Rock B\n- C) Rock C\n- D) They all hit the ground at the same speed",
+    "possible-answers": [
+      "D"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Three rocks are thrown off a building at the same speed and at the same time. Rock A is thrown off horizontally. Rock B is thrown off at 45° above horizontal. Rock C is thrown off at 45° below horizontal. Which rock reaches the ground in the shortest amount of time?\n- A) Rock A\n- B) Rock B\n- C) Rock C\n- D) They all hit the ground at the same time",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A truck and car have tires with the same coefficient of friction. The truck has twice the mass of the car. The car is initially traveling at a speed $`v_{0c}`$. The driver hits the brakes, and the car stops in a distance of $`d_c`$. If the truck is traveling at the same initial speed when its driver hits the brakes, how far does it travel before stopping?\n- A) $`\\frac 1 2 d_c`$\n- B) $`d_c`$\n- C) $`2 d_c`$\n- D) $`4 d_c`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A truck and car have tires with the same coefficient of friction. The truck has twice the mass of the car. The car is initially traveling at a speed $`v_{0c}`$. The driver hits the brakes, and the car stops in a distance of $`d_c`$. If the truck is traveling at the double that speed when its driver hits the brakes, how far does it travel before stopping?\n- A) $`\\frac 1 2 d_c`$\n- B) $`d_c`$\n- C) $`2 d_c`$\n- D) $`4 d_c`$",
+    "possible-answers": [
+      "D"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Object A has a mass $`m_A`$ and is moving at a speed $`v_A`$. Object B has double the mass of A. If Object B has the same momentum as A, what must its speed be?\n- A) $`\\frac 1 4 v_A`$\n- B) $`\\frac 1 2 v_A`$\n- C) $`v_A`$\n- D) $`2 v_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Objects A and B have the same kinetic energy. Object B has 4 times the mass of A. If the speed of Object A is $`v_A`$, then what is the speed of Object B?\n- A) $`\\frac 1 4 v_A`$\n- B) $`\\frac 1 2 v_A`$\n- C) $`v_A`$\n- D) $`2 v_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Objects A and B have the same momentum. Object B has 4 times the mass of A. If the kinetic energy of Object A is $`K_A`$, then what is the kinetic energy of Object B?\n- A) $`\\frac 1 4 K_A`$\n- B) $`\\frac 1 2 K_A`$\n- C) $`K_A`$\n- D) $`2 K_A`$",
+    "possible-answers": [
+      "A"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A thrown water balloon is caught, coming to a stop in time $`\\Delta t_A`$ and experiencing a net force $`F_A`$. If the water balloon instead came to a stop in $`\\frac 1 2 \\Delta t_A`$, what would the net force be?\n- A) $`\\frac 1 2 F_A`$\n- B) $`F_A`$\n- C) $`2 F_A`$\n- D) $`4 F_A`$",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A thrown water balloon is caught, coming to a stop in time $`\\Delta t_A`$ and experiencing a net force $`F_A`$. If the water balloon instead came to a stop in $`\\frac 1 2 \\Delta t_A`$, what would the impulse be?\n- A) $`\\frac 1 2 F_A t_A`$\n- B) $`F_A \\Delta t_A`$\n- C) $`2 F_A \\Delta t_A`$\n- D) $`4 F_A \\Delta t_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Ant A and Ant B are standing on a rotating disk. Ant A is at a radius $`r_A`$ and is rotating with a tangential velocity of $`v_A`$. Ant B is at a radius of $`r_B = 2 r_A`$. What is the angular velocity of Ant B?\n- A) $`\\frac {v_A} {r_A}`$\n- B) $`\\frac {v_A} {2 r_A}`$\n- C) $`v_A r_A`$\n- D) $`2 v_A r_A`$",
+    "possible-answers": [
+      "A"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Ant A and Ant B are standing on a rotating disk. Ant A is at a radius $`r_A`$ and is rotating with a tangential velocity of $`v_A`$. Ant B is at a radius of $`r_B = 2 r_A`$. What is the centripetal acceleration of Ant B?\n- A) $`\\frac {v_A^2} {r_A}`$\n- B) $`\\frac {v_A^2} {2 r_A}`$\n- C) $`\\frac {2 v_A^2} {r_A}`$\n- D) $`\\frac {4 v_A^2} {r_A}`$",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Three objects (a disk, a ring, and a solid sphere) are released at the same time to roll without slipping down an incline. These objects all have the same mass and radius. Which object reaches the bottom of the incline first?\n- A) Disk\n- B) Ring\n- C) Solid sphere",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A mass on a spring oscillates with a period $`T_A`$. If the amplitude doubled, what would be the new period $`T_B`$?\n- A) $`\\frac 1 2 T_A`$\n- B) $`T_A`$\n- C) $`2 T_A`$\n- D) $`4 T_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A mass on a spring oscillates with a period $`T_A`$. If the mass doubled, what would be the new period $`T_B`$?\n- A) $`\\frac {1} {\\sqrt 2} T_A`$\n- B) $`\\frac 1 2 T_A`$\n- C) $`\\sqrt 2 T_A`$\n- D) $`2 T_A`$",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A mass on a spring oscillates with a period $`T_A`$. If the spring constant quadrupled, what would be the new period $`T_B`$?\n- A) $`\\frac {1} {\\sqrt 2} T_A`$\n- B) $`\\frac 1 2 T_A`$\n- C) $`\\sqrt 2 T_A`$\n- D) $`2 T_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A simple pendulum oscillates with a period $`T_A`$. If the mass doubled, what would be the new period $`T_B`$?\n- A) $`\\frac 1 2 T_A`$\n- B) $`T_A`$\n- C) $`2 T_A`$\n- D) $`4 T_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A simple pendulum oscillates with a period $`T_A`$. If the length halfed, what would be the new period $`T_B`$?\n- A) $`\\frac {1} {\\sqrt 2} T_A`$\n- B) $`\\frac 1 2 T_A`$\n- C) $`\\sqrt 2 T_A`$\n- D) $`2 T_A`$",
+    "possible-answers": [
+      "A"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A simple pendulum oscillates with a period $`T_A`$. If the pendulum was put on a planet with 4 times the gravitational acceleration, what would be the new period $`T_B`$?\n- A) $`\\frac {1} {\\sqrt 2} T_A`$\n- B) $`\\frac 1 2 T_A`$\n- C) $`\\sqrt 2 T_A`$\n- D) $`2 T_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A sound wave of frequency $`f_A`$ and wavelength $`\\lambda_A`$ switches to a medium with double the wave speed. What is the wavelength $`\\lambda_B`$ in the new medium?\n- A) $`\\frac 1 2 \\lambda_A`$\n- B) $`\\lambda_A`$\n- C) $`2 \\lambda_A`$\n- D) $`4 \\lambda_A`$",
+    "possible-answers": [
+      "C"
+    ]
+  },
+  {
+    "question": "Multiple Choice: A sound wave of frequency $`f_A`$ and wavelength $`\\lambda_A`$ switches to a medium with double the wave speed. What is the frequency $`f_B`$ in the new medium?\n- A) $`\\frac 1 2 f_A`$\n- B) $`f_A`$\n- C) $`2 f_A`$\n- D) $`4 f_A`$",
+    "possible-answers": [
+      "B"
+    ]
+  },
+  {
+    "question": "Multiple Choice: Sound A has an intensity level of 20 dB. Sound B has an intensity level of 40 dB. What is their intensity ratio $`\\frac {I_B} {I_A}`?\n- A) 1\n- B) 10\n- C) 100\n- D) 1000\n- E) 10000",
+    "possible-answers": [
+      "C"
+    ]
+  }
+]
