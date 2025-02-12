@@ -144,7 +144,7 @@
     ]
   },
   {
-    "question": "Multiple Choice: Sound A has an intensity level of 20 dB. Sound B has an intensity level of 40 dB. What is their intensity ratio $`\\frac {I_B} {I_A}`?\n- A) 1\n- B) 10\n- C) 100\n- D) 1000\n- E) 10000",
+    "question": "Multiple Choice: Sound A has an intensity level of 20 dB. Sound B has an intensity level of 40 dB. What is their intensity ratio $`\\frac {I_B} {I_A}`$?\n- A) 1\n- B) 10\n- C) 100\n- D) 1000\n- E) 10000",
     "possible-answers": [
       "C"
     ]
