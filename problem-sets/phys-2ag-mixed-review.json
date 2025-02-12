@@ -60,7 +60,7 @@
     ]
   },
   {
-    "question": "Multiple Choice: Objects A and B have the same momentum. Object B has 4 times the mass of A. If the kinetic energy of Object A is $`K_A`$, then what is the kinetic energy of Object B?\n- A) $`\\frac 1 4 K_A`$\n- B) $`\\frac 1 2 K_A`$\n- C) $`K_A`$\n- D) $`2 K_A`$",
+    "question": "Multiple Choice: Objects A and B have the same momentum. Object B has 4 times the mass of A. If the kinetic energy of Object A is $`K_A`$, then what is the kinetic energy of Object B?\n- A) $`\\frac 1 4 K_A`$\n- B) $`\\frac 1 2 K_A`$\n- C) $`K_A`$\n- D) $`2 K_A`$\n- E) $`4 K_A`$",
     "possible-answers": [
       "A"
     ]
